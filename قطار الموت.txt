@@ -1,0 +1,16 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+	    int heghit =170;
+	    
+	    if(heghit>=160){
+	        System.out.println("you can enter");
+	    }
+	    else if(heghit<160){
+	        System.out.println("you cant enter");
+	    }
+	    
+	}
+}
+
